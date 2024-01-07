@@ -115,6 +115,12 @@ create table if not exists student
 	示例:
 	rename table `student` to stu;
 
+### MySQL数据库基本操作-DDL
+#### 数据插入
+	insert into 表(列名1, 列名2, 列名3...) values(值1, 值2, 值3...), (值1, 值2, 值3...);
+	insert into 表 values(值1, 值2, 值3...), (值1, 值2, 值3...);
+	insert into 表 values(值1, 值2, 值3...);
+	示例:
 
 ### MySQL数据库基本操作-DDL
 #### 数据插入
