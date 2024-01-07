@@ -133,6 +133,7 @@ create table if not exists student
 	insert into student values(1001, '男', '1996-12-23', '北京', 83.5);
 #### 数据修改
 	update 表名 set 字段名=值, 字段名=值...;
+	update 
 
 
 
